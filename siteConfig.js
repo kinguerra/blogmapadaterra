@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://blogmapadaterra.herokuapp.com`,
+    siteUrl: `https://blog.mapadaterra.org`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
