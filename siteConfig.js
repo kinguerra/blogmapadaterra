@@ -10,7 +10,7 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Blog do Mapa da Terra`,
+    siteTitleMeta: `Blog do mapadaterra`,
 
     // This allows an site description for meta data for pages.
     siteDescriptionMeta: `Ideias, reflexões, estudos experiências de vidas com materiais naturais `,
